@@ -8,3 +8,5 @@ Obst
 Brot
 Tomatensoße
 Müsli
+Milch
+
